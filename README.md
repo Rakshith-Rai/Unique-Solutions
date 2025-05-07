@@ -26,12 +26,12 @@ A modern, responsive website for Unique Solutions, a technology solutions provid
 
 1. Clone the repository:
 ```
-git clone <repository-url>
+git clone https://github.com/Rakshith-Rai/unique-solutions.git
 ```
 
 2. Navigate to the project directory:
 ```
-cd unique-solutions-react
+cd unique-solutions
 ```
 
 3. Install dependencies:
