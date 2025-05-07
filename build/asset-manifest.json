@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/unique-solutions/static/css/main.0adac910.css",
+    "main.js": "/unique-solutions/static/js/main.0cc43ad3.js",
+    "static/js/453.9454f576.chunk.js": "/unique-solutions/static/js/453.9454f576.chunk.js",
+    "static/media/home-bg-min.jpg": "/unique-solutions/static/media/home-bg-min.eb7d302e797146a8155c.jpg",
+    "static/media/solar-min.jpg": "/unique-solutions/static/media/solar-min.809889c8ea89116e4702.jpg",
+    "static/media/about-im.jpg": "/unique-solutions/static/media/about-im.e6761b036ff640dc10b5.jpg",
+    "static/media/cctv-min.jpg": "/unique-solutions/static/media/cctv-min.0020be04096c5c316a86.jpg",
+    "static/media/vde-min.jpg": "/unique-solutions/static/media/vde-min.b6523665cf94d964a787.jpg",
+    "static/media/biometrics-min.jpg": "/unique-solutions/static/media/biometrics-min.57ee9a33e767eb6d6c37.jpg",
+    "static/media/intercom-min.jpg": "/unique-solutions/static/media/intercom-min.f6fe13c05b45841e4ba5.jpg",
+    "static/media/logo.png": "/unique-solutions/static/media/logo.2661e51eeb2b1d98d4a1.png",
+    "static/media/gate.jpg": "/unique-solutions/static/media/gate.558f0c26caa02e2205be.jpg",
+    "static/media/inverter.jpg": "/unique-solutions/static/media/inverter.f782621e8f9d9d155ece.jpg",
+    "index.html": "/unique-solutions/index.html",
+    "main.0adac910.css.map": "/unique-solutions/static/css/main.0adac910.css.map",
+    "main.0cc43ad3.js.map": "/unique-solutions/static/js/main.0cc43ad3.js.map",
+    "453.9454f576.chunk.js.map": "/unique-solutions/static/js/453.9454f576.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0adac910.css",
+    "static/js/main.0cc43ad3.js"
+  ]
+}
